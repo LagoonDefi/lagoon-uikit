@@ -17,7 +17,7 @@ const Wrapper = styled.div`
 `;
 
 const StyledNav = styled.nav<{ showMenu: boolean }>`
-  position: fixed;
+  position: absolute;
   top: ${({ showMenu }) => (showMenu ? 0 : `-${MENU_HEIGHT}px`)};
   left: 0;
   transition: top 0.2s;
