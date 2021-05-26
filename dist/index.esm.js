@@ -2191,14 +2191,6 @@ var links = [
                 label: "Github",
                 href: "https://github.com/lagoondefi/",
             },
-            {
-                label: "Docs",
-                href: "https://lagoondefi.gitbook.io/lagoon-defi/",
-            },
-            {
-                label: "Blog",
-                href: "https://lagoondefi.medium.com/",
-            },
         ],
     },
 ];
