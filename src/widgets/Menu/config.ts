@@ -119,8 +119,12 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "English",
+        label: "Lagoon Chat",
         href: "https://t.me/lagoondefichat",
+      },
+      {
+        label: "Lagoon Announcements",
+        href: "https://t.me/lagoondefi",
       },
       // {
       //   label: "Bahasa Indonesia",
