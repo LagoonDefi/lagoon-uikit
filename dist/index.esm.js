@@ -2207,6 +2207,22 @@ var socials = [
                 label: "Lagoon Announcements",
                 href: "https://t.me/lagoondefi",
             },
+            {
+                label: "Lagoon Japan",
+                href: "https://t.me/lagoondefijapan",
+            },
+            {
+                label: "Lagoon Sweden",
+                href: "https://t.me/lagoondefisweden",
+            },
+            {
+                label: "Lagoon Vietnam",
+                href: "https://t.me/lagoondefivietnam",
+            },
+            {
+                label: "Lagoon Indonesia",
+                href: "https://t.me/joinchat/EpYorZmv9dA3YTEx",
+            },
         ],
     },
     {
