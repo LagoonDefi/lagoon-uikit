@@ -119,27 +119,27 @@ export const socials = [
     icon: "TelegramIcon",
     items: [
       {
-        label: "Lagoon Chat",
+        label: "English",
         href: "https://t.me/lagoondefichat",
       },
       {
-        label: "Lagoon Announcements",
+        label: "Announcements",
         href: "https://t.me/lagoondefi",
       },
       {
-        label: "Lagoon Japan",
+        label: "日本語",
         href: "https://t.me/lagoondefijapan",
       },
       {
-        label: "Lagoon Sweden",
+        label: "Swedish",
         href: "https://t.me/lagoondefisweden",
       },
       {
-        label: "Lagoon Vietnam",
-        href: "https://t.me/lagoondefivietnam",
+        label: "vTiếng Việt",
+        href: "https://t.me/lagoonvietnam",
       },
       {
-        label: "Lagoon Indonesia",
+        label: "Bahasa Indonesia",
         href: "https://t.me/joinchat/EpYorZmv9dA3YTEx",
       },
       // {
